@@ -1,4 +1,4 @@
-This is a simple Wordpress plugin that reads a self-contained CSV, generates a search form to filter that data and displays results on the same page. The server side simply sends over the CSV data and then the client processes it to dynamically generate a search form and process search queries.
+This is a simple Wordpress plugin that reads a self-contained CSV, generates a search form to filter that data and displays results on the same page. The server side simply sends over the CSV data and then the client processes it to dynamically generate a search form and process search queries. Created by Aimen Awan, graduate student at Pratt Institute's School of Information.
 
 The plugin can be activated using the shortcode `[aa-resource-tags-search]`
 
